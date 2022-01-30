@@ -11,9 +11,7 @@ or here:
 https://github.com/orbitersim/orbiter
 
 
-
-
-INSTALL INSTRUCTIONS
+# INSTALL INSTRUCTIONS
 
 1) Download and place Surveyor.DLL under <OrbiterRoot>/Modules/
 2) Download and place SurveyorLanding.scn under <OrbiterRoot>/Scenarios/Surveyor/
@@ -26,10 +24,8 @@ INSTALL INSTRUCTIONS
   I have not included the meshes in this project because I am not the author of them and do not hold the copyright.
 4) Launch Orbiter. Navigate to Surveyor directory and launch the scenario. Enjoy!
 
-  
-  
-  
-SCENARIO OVERVIEW
+
+# SCENARIO OVERVIEW
   
 The scenario represents the descent of the Surveyor spacecraft onto the lunar surface.
 The Surveyor program consisted of a series of unmanned lander missions before the manned Apollo missions. It was launched directly to
@@ -55,7 +51,7 @@ authority) to orient the spacecraft retrograde. The rest of the autopilot logic 
 manual intervention at any point in the scenario.
   
 
-IF YOU WANT TO MODIFY SOURCE CODE
+# IF YOU WANT TO MODIFY SOURCE CODE
 
 Follow the steps here to set up the dependencies:
 https://www.orbiterwiki.org/wiki/Free_Compiler_Setup
