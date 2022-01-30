@@ -3,6 +3,8 @@
 Copyright (C) 2022 Harish Saranathan
 Released under the MIT License
 
+This video demonstrates the project in action: https://youtu.be/5ZG41mQxzlI
+
 This project implements an autopilot for the Surveyor spacecraft used during its lunar descent in Orbiter Space Flight Simulator.
 
 This project requires Orbiter Space Flight Simulator. You can download the product from here:
