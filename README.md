@@ -1,4 +1,4 @@
-# SurveyorForOrbiterSpaceFlightSimulator
+# SurveyorAutopilotForOrbiterSpaceFlightSimulator
 
 Copyright (C) 2022 Harish Saranathan
 Released under the MIT License
