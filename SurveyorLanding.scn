@@ -1,0 +1,50 @@
+BEGIN_DESC
+Orbiter saved state at T = 3101
+END_DESC
+
+BEGIN_ENVIRONMENT
+  System Sol
+  Date MJD 51970.7044621982
+  Help CurrentState_img
+END_ENVIRONMENT
+
+BEGIN_FOCUS
+  Ship Surveyor1
+END_FOCUS
+
+BEGIN_CAMERA
+  TARGET Surveyor1
+  MODE Cockpit
+  FOV 50.00
+END_CAMERA
+
+BEGIN_HUD
+  TYPE Orbit
+  REF Moon
+END_HUD
+
+BEGIN_MFD Left
+  TYPE Orbit
+  PROJ Ship
+  FRAME Ecliptic
+  ALT
+  REF Moon
+END_MFD
+
+BEGIN_MFD Right
+  TYPE Map
+  REF Moon
+  POS 0.00 0.00
+END_MFD
+
+BEGIN_SHIPS
+Surveyor1:Surveyor
+  STATUS Orbiting Moon
+  RPOS 2737400 0 0
+  RVEL -2130 0 0
+  AROT -156.754 10.546 -48.492
+  AFCMODE 7
+  PRPLEVEL 0:1.000 1:1.000 2:1.000
+  NAVFREQ 0 0
+END
+END_SHIPS
