@@ -5,7 +5,6 @@
 //
 // Evolved from:
 //                 ORBITER MODULE: Surveyor
-//                  Part of the ORBITER SDK
 //                Copyright (C) 2005 Kwan3217
 //      Released under the Gnu Free Documentation License
 // 
