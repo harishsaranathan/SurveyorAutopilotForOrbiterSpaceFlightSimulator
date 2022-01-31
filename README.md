@@ -64,7 +64,7 @@ The spacecraft definition that is modified from the tutorial can be found in Sur
 
 The autopilot logic can be found in AutoPilot.cpp.
 
-This project also includes a Visual Studio project file SUrveyor.vcxproj. You will have to modify the project properties so that the 
+This project also includes a Visual Studio project file Surveyor.vcxproj. You will have to modify the project properties so that the 
 Include Directories and Library Directories (under VC++ Directories) are based off of your install location of Orbiter SPace Flight Simulator.
 Also, modify the Output File location listed in 'Linker -> General' to your requirement.
 
